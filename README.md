@@ -1,4 +1,5 @@
-# vue-overlay
+# vue-overlayer
+
 弹出层管理器，用来管理如Modal、PopupBox等的显示，解耦弹出层的父子组件
 
 ## 实现目标
